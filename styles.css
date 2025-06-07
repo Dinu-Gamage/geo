@@ -235,6 +235,15 @@ body.dark-mode .svgc{
     transition: var(--transition);
 }
 
+.nav-con{
+    text-decoration: none;
+    color: inherit;
+    font-weight: 500;
+    position: relative;
+    padding: 0.5rem 0;
+    transition: var(--transition);
+}
+
 .nav-links a::after {
     content: '';
     position: absolute;
@@ -1266,7 +1275,7 @@ body.dark-mode .theme-toggle:hover {
     }
     
     .hero-subtitle {
-        font-size: 1.5rem;
+        font-size: 1.2rem;
     }
 
     .about-features {
