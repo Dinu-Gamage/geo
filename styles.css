@@ -778,6 +778,7 @@ body.dark-mode .course-content li {
     margin: 0 auto;
     position: relative;
     overflow:hidden;
+    height: 300px;
 }
 
 .testimonials-container{
